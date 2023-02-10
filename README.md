@@ -1,7 +1,7 @@
 
 #  Les-réseaux-multi-couches (Multi-Layer-networks)
 
-**###Objectif :** 
+_**objectif**_
 Utilisation des réseaux multi-couches pour la prédiction du coup à jouer dans le jeu de Ti-Tac-Toe.  Expliquer la démarche adoptée pour former la base des exemples d’apprentissage. Développer l’application qui permet de jouer une partie de Tic-Tac-Toe Homme-Machine, la décision prise par la machine est le résultat prédit par le PMC.
 
 
@@ -12,15 +12,16 @@ Les réseaux multi-couches sont des modèles de réseau de neurones qui comprenn
 ![image](https://user-images.githubusercontent.com/101791324/218126618-701dac1d-ebdd-470f-a9ec-dde4adebf138.png)
 
 
-**### La démarche à suivre :**
+_**La démarche à suivre :**_
 
-**### 1. Former une base de données d'exemples d'apprentissage :**
+_**1. Former une base de données d'exemples d'apprentissage :**_
+
 Une façon possible de le faire serait de générer des jeux aléatoires de Tic-Tac-Toe, en enregistrant l'état de chaque plateau de jeu et la prochaine action jouée (coup) pour chaque tour de jeu. Ces exemples peuvent ensuite être utilisés pour entraîner un réseau de neurones multi-couches pour prédire le coup à jouer.
 
 
-**### 2. Créer un réseau de neurone PMC est l’entrainer toute en utilisant la base de données d’exemples :**
+ _**2. Créer un réseau de neurone PMC est l’entrainer toute en utilisant la base de données d’exemples :**_
 
-**###3.Une fois que le modèle est entraîné, il peut être utilisé pour développer une application de Tic-Tac-Toe Homme-Machine.**
+_**3.Une fois que le modèle est entraîné, il peut être utilisé pour développer une application de Tic-Tac-Toe Homme-Machine.**_
 
 ![image](https://user-images.githubusercontent.com/101791324/218129666-9d6358fe-313f-40d2-b328-6cbd19980967.png)
 
